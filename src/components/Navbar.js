@@ -2,7 +2,7 @@
 const Navbar= ()=>{
     return(
         <div>
-           <nav> <h1>Top Course</h1></nav>
+           <nav className="bg-bgDark py-4 text-center"> <h1 className="text-white font-bold text-3xl">Top Course</h1></nav>
         </div>
     );
 
